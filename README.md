@@ -2,7 +2,7 @@
 Roadblock software code
 
 To compile the Roadblock.exe, follow either of these procedure:
-1.  Use Pyinstaller to make exe of every python file. (Ex:  "pyinstaller roadblockpy --onefile")
+1.  Use Pyinstaller to make exe of every python file. (Ex:  "pyinstaller roadblock.py --onefile")
 2. Then embed all the exe (except Roadblock.exe) in Roadblock.exe using Resource hacker software following the sequence as mentioned in Roadblock.py
 3. The final Roadblock.exe is ready.
 
